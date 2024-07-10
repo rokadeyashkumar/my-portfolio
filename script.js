@@ -24,6 +24,9 @@ document.addEventListener("DOMContentLoaded", function() {
     document.querySelector(".twitter").addEventListener("click", function() {
         window.open("https://x.com/YashkumarRokade/");
     });
+    document.querySelector(".github").addEventListener("click", function() {
+        window.open("https://github.com/rokadeyashkumar");
+    });
     document.querySelector(".linkedin").addEventListener("click", function() {
         window.open("https://www.linkedin.com/in/yashkumar-rokade-004478225/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=in");
     });
