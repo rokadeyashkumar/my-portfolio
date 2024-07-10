@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 
     document.querySelector(".email-btn").addEventListener("click", function() {
-        window.location.href = "mailto:yashkr10316@gmail.com@example.com";
+        window.location.href = "mailto:rokadeyashkumar@gmail.com@example.com";
     });
     document.querySelector(".instagram").addEventListener("click", function() {
         window.open("https://www.instagram.com/rokadeyashkumar/?hl=en");
